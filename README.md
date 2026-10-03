@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of flagrow/fonts.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/fonts) or the [upstream repository](https://github.com/flagrow/fonts).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/flagrow-fonts/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**4** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/flagrow-fonts/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-07-05 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-fonts/tree/archive/v0.1.0) |
+| `0.1.1` | 2017-07-27 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-fonts/tree/archive/v0.1.1) |
+| `0.1.2` | 2017-08-24 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-fonts/tree/archive/v0.1.2) |
+| `0.2.0` | 2018-12-09 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-fonts/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/flagrow-fonts.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-fonts.json)
 
